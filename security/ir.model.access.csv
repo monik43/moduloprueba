@@ -1,2 +1,2 @@
 id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_moduloprueba_moduloprueba,moduloprueba.moduloprueba,model_moduloprueba_moduloprueba,,1,0,0,0
+acess_tareas_pend_group_user,tareas.pend.user,model_tareas_pend,base.group_user,1,1,1,1
